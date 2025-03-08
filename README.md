@@ -2,7 +2,7 @@
 
 Project Description
 
-With the rising concerns about unauthorized access and intrusions, there is a growing demand for robust security systems. This project aims to enhance security measures by leveraging advanced technologies to detect intruders promptly. The **Intruder Detection and Email Alerting System** is designed to identify unauthorized access and notify stakeholders via email and SMS alerts.
+With the rising concerns about unauthorized access and intrusions, there is a growing demand for robust security systems. This project aims to enhance security measures by leveraging advanced technologies to detect intruders promptly. The **Intruder Detection for Modern Web Architectures** is designed to identify unauthorized access and notify stakeholders via email and SMS alerts.
 
 Features
 
@@ -13,14 +13,14 @@ Features
 - Facial recognition for authentication using OpenCV.
 - Web-based interface for user management using Streamlit.
 - Multi-layer verification to enhance security.
-- 
+  
 Tech Stack
 
 - **Programming Language:** Python
 - **Frameworks/Libraries:** OpenCV, TensorFlow/Keras (if deep learning is used), Streamlit, Twilio (for SMS alerts), smtplib (for email notifications)
 - **Database:** MySQL
 - **Tools:** PyCharm/IntelliJ IDEA, Git
-- 
+
 Installation
 1. Clone the repository:
    ```bash
@@ -37,7 +37,7 @@ Installation
 4. Set up the database:
    - Import `project_db.sql` into MySQL.
    - Configure database credentials in `project.py`.
-   - 
+   
 Configuration
 
 Email & SMS Alert Setup
